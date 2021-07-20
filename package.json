@@ -1,6 +1,6 @@
 {
   "name": "@gooseberry-crumble/mimic",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "A library to help with the often laborious process of mocking large data sets for unit and integration testing.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -22,7 +22,10 @@
       "eslint"
     ]
   },
-  "author": "markjones.js@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gooseberry-crumble/mimic"
+  },
   "license": "ISC",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.21.0",
