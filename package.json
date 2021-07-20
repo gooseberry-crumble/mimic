@@ -1,6 +1,6 @@
 {
   "name": "@gooseberry-crumble/mimic",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "A library to help with the often laborious process of mocking large data sets for unit and integration testing.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
